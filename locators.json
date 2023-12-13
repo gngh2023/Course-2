@@ -1,0 +1,30 @@
+{
+    "Btnwarning": {
+        "screenshot": ".images\\btnwarning-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".btn-warning"
+    },
+    "Order": {
+        "screenshot": ".images\\order-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order"
+    },
+    "Orderanother": {
+        "screenshot": ".images\\orderanother-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "order-another"
+    },
+    "Preview": {
+        "screenshot": ".images\\preview-screenshot.png",
+        "source": "https://robotsparebinindustries.com/#/robot-order",
+        "strategy": "id",
+        "type": "browser",
+        "value": "preview"
+    }
+}
